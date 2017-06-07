@@ -10,23 +10,23 @@ Also app Auto loads the last city searched upon app launch.
 
 WeatherInfoViewController :
 
-Controlls UI componets like WeatherInfoView and searchbar. It Gets weather info from OWWeatherInfoRepository and display it in WeatherInfoView.
+         Controlls UI componets like WeatherInfoView and searchbar. It Gets weather info from OWWeatherInfoRepository and      display it in WeatherInfoView.
 
 WeatherInfoView:
 
-A UIView that displays weather details
+         A UIView that displays weather details
 
 OWNetworkManager:
 
-A singleton class that handles OWNetworkClient for network communications.
+         A singleton class that handles OWNetworkClient for network communications.
 
 OWNetworkClient :
 
-Implements network communications
+         Implements network communications
 
 WeatherInfoObject:
 
-Data object for weather info details.
+         Data object for weather info details.
 
 
 
